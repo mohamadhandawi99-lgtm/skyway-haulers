@@ -335,9 +335,15 @@ main {
 
     }
 
-    .review-box {
+    .services .review-box {
 
         width: 10rem;
+
+    }
+
+    .index .review-box, .reviews .review-box {
+
+        width: 80%;
 
     }
 
