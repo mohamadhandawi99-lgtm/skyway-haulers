@@ -1,0 +1,29 @@
+.prices___intro {
+
+    font-size: 1.25rem;
+    margin-bottom: 1rem;
+    display: flow-root;
+
+}
+
+.prices___list___item {
+
+    border-top: 2px solid rgb(18, 60, 77);
+    padding: 1rem;
+
+}
+
+.prices___list___item___title {
+
+    color: rgb(18, 60, 77);
+    font-size: 1.25rem;
+
+}
+
+.prices___list___item___body {
+
+    font-size: 0.9rem;
+    color: black;
+    text-wrap: pretty;
+
+}
