@@ -8,7 +8,7 @@ const data = {
 
     important: {
 
-        email: "email@email.com",
+        email: "email@address.com",
         phone: "07308491182",
         locations: ["South London", "East London", "West London", "North London", "Reading", "Oxfordshire", "Berkshire", "Greater London", "England",],
 
@@ -36,13 +36,13 @@ const data = {
 
         first_service: {
 
-            title: "Service 1",
+            title: "Removal service 1",
             description: "Insert a short description of this service here",
 
         },
         second_service: {
 
-            title: "Service 2",
+            title: "Removal service 2",
             description: "Insert a short description of this service here",
 
         },
@@ -54,8 +54,8 @@ const data = {
 
             { //First review
 
-                name: "Name of Reviewer",
-                date: "MMM YYYY",
+                name: "Name",
+                date: "Jan 2025",
                 review_text: "Insert the full review here.",
 
             },
@@ -186,6 +186,20 @@ const data = {
             name: "Name of Reviewer",
             date: "MMM YYYY",
             review_text: "Quick service",
+
+        },
+        {
+
+            name: "Name of Reviewer",
+            date: "MMM YYYY",
+            review_text: "Insert the full review here.",
+
+        },
+        {
+
+            name: "Name of Reviewer",
+            date: "MMM YYYY",
+            review_text: "Insert the full review here.",
 
         },
         {
