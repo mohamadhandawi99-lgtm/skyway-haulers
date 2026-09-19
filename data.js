@@ -54,7 +54,7 @@ const data = {
 
             { //First review
 
-                name: "Name",
+                name: "Name of Reviewer",
                 date: "Jan 2025",
                 review_text: "Insert the full review here.",
 
@@ -186,13 +186,6 @@ const data = {
             name: "Name of Reviewer",
             date: "MMM YYYY",
             review_text: "Quick service",
-
-        },
-        {
-
-            name: "Name of Reviewer",
-            date: "MMM YYYY",
-            review_text: "Insert the full review here.",
 
         },
         {
