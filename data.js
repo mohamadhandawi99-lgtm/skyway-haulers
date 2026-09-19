@@ -106,7 +106,7 @@ const data = {
        
         //The introductory text at the top of the prices screen
 
-        prices_introductory_text: "Our prices are cheap and competitive, and customer satisfaction is our number one priority.",
+        prices_introductory_text: "Our prices are cheap and competitive, and customer satisfaction is our number one priority. You can rest assured that we have goods in transit insurance so you will never be let down.",
 
 
 
