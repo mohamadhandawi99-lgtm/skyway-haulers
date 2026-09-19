@@ -108,8 +108,19 @@ const data = {
 
         prices_introductory_text: "Our prices are cheap and competitive, and customer satisfaction is our number one priority. You can rest assured that we have goods in transit insurance so you will never be let down.",
 
+        
+        //Your vehicle specifications
+        
+        vehicle_specifications: {
 
+            loading_capacity: "12m³",
+            payload: "1795kg",
+            max_length: "3.5m",
+            tail_lift: "No",
 
+        },
+
+        
         //The next 3 blocks are for your 3 services. If you do not require 3 blocks, delete everything between and including a single pair of {} in a single block. If you require more than 3 blocks, simply copy and paste an already existing block (everything between a single pair of {}) and change the text to your liking
         list_of_services: [
 
