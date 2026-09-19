@@ -10,7 +10,7 @@ const data = {
 
         email: "email@email.com",
         phone: "07308491182",
-        locations: ["South London", "East London", "West London", "North London", "Reading", "Oxfordshire", "Berkshire",],
+        locations: ["South London", "East London", "West London", "North London", "Reading", "Oxfordshire", "Berkshire", "Greater London", "England",],
 
     },
 
