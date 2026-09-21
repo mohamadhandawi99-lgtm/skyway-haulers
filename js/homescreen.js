@@ -138,7 +138,7 @@ if (homescreen___reviews && homescreen___reviewsData?.length) {
 
 	const homescreen___viewAllReviews = document.createElement('a');
 	homescreen___viewAllReviews.className = 'index___body___reviews___button';
-	homescreen___viewAllReviews.href = 'reviews.html';
+	homescreen___viewAllReviews.href = 'reviews/';
 	homescreen___viewAllReviews.innerHTML = 'View all <svg xmlns="http://www.w3.org/2000/svg" viewBox="5 5 32 14" fill="none" stroke="currentColor" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" class="index___body___reviews___button___image"><path d="M5 12h30"/><path d="m29 5 7 7-7 7"/></svg>';
 
 	homescreen___reviews.append(homescreen___viewAllReviews);
